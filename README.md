@@ -1,2 +1,2 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba del moslu2 del Prepcourse Henry 
+es es una prueba de como crear un repositorio desde git hub y clonarlo desde mi computadora
+ 
